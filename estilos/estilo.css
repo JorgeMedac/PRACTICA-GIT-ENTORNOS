@@ -1,0 +1,252 @@
+body{
+    background: url(../images/fondolol.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#contenedor{
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background: rgba(0, 0, 0, 0.6);
+}
+header{
+    background: url(../images/banner.JPG)no-repeat;
+    background-size: cover;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 20px 20px 0% 0%;
+}
+#boton1{
+    background: url(../images/iniciosesion.JPG)no-repeat;
+    width: 138px;
+    height: 30px;
+    border-radius: 20px;
+    transition: all 300ms;
+}
+#boton1:hover{
+    transform: scale(1.05); 
+}
+#boton2{
+    background: url(../images/jugarahora.JPG)no-repeat;
+    width: 127px;
+    height: 30px;
+    border-radius: 20px;
+    transition: all 300ms;
+}
+#boton2:hover{
+    transform: scale(1.05); 
+}
+audio{
+    margin: auto;
+    display: block;
+}
+#logo{
+    width: 275px;
+    margin-top: 50px;
+    margin-left: 100px;
+    transition: all 300ms;
+}
+#logo:hover{
+    transform: scale(1.05);
+}
+#iniciosesion{
+    border-radius: 20px;
+}
+#usuario{
+    border-radius: 20px;
+    transition: all 300ms;
+}
+#usuario:hover{
+    transform: scale(1.05);
+}
+#contraseña{
+    border-radius: 20px;
+    transition: all 300ms;
+}
+#contraseña:hover{
+    transform: scale(1.05);
+}
+header>h1{
+    color: #EABE3F;
+    width: 300px;
+    margin-top: -90px;
+    margin-left: 570px;
+    text-align: center;
+    text-shadow: 5px 3px 8px black;
+}
+fieldset{
+    margin-top: -140px;
+    float: right;
+    margin-right: 50px;
+}
+fieldset>legend{
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+}
+fieldset>table{
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+}
+section{
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 75%;
+    float: right;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    margin-right: 25px;
+    height: auto;
+    margin-bottom: 25px;
+}
+section>h1{
+    text-align: center;
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+    font-size: 40px;
+}
+article>h2{
+    text-align: center;
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+    font-size: 30px;
+}
+article>h3{
+    text-align: center;
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+    font-size: 30px;
+}
+article>p{
+    text-align: center;
+    color: #EABE3F;
+    margin: 0em 5em;
+}
+article>video{
+    width: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    transition: all 300ms;
+    box-shadow: 20px 20px 40px;
+}
+article>video:hover{
+    transform: scale(1.05);
+}
+#lineashab{
+    width: 500px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    transition: all 300ms;
+    box-shadow: 20px 20px 40px;
+}
+#lineashab:hover{
+    transform: scale(1.05);
+}
+details{
+    text-align: center;
+    color: #EABE3F;
+    text-shadow: 5px 3px 8px black;
+}
+details>p{
+    margin: 0em 5em;
+    text-shadow: none;
+}
+details>img{
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    transition: all 300ms;
+}
+details>img:hover{
+    transform: scale(1.05);
+}
+aside {
+    float: left;
+    width: 20%;
+    height: auto;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-top: -20px;
+}
+#nav1{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px; 
+}
+#nav1>h2{
+    text-align: center;
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+}
+#nav1 ul>li{
+    color: #EABE3F;
+    transition: all 300ms;
+}
+#nav1 ul>li:hover{
+    font-size:18px
+}
+#p>a{  
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+    text-decoration: none;
+}
+#nav2{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+}
+#nav2>h2{
+    text-align: center;
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+}
+#nav2 ul>li{
+    color: #EABE3F;
+    transition: all 300ms;
+}
+#nav2 ul>li:hover{
+    font-size:18px
+}
+#nav3{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 20px;
+}
+#nav3>h2{
+    text-align: center;
+    color: #EABE3F;
+    font-weight: bold;
+    text-shadow: 5px 3px 8px black;
+}
+#cancion{
+    width: 90%;
+}
+#footerIndex{
+   background-color: rgba(0, 0, 0, 0.6);
+    margin: auto;
+    border-radius: 0% 0% 20px 20px;
+    box-shadow: 20px 20px 40px;
+    clear: both;
+}
+.footerp{
+    text-align: center;
+}
+.footerp>a{
+    color: #EABE3F;
+    text-decoration: none;
+    transition: all 300ms;
+}
+.footerp>a:hover{
+    font-size:17px
+}
+.copyright{
+    color: #EABE3F;
+    text-align: center;
+    list-style: none;
+}
