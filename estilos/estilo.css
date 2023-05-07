@@ -285,3 +285,113 @@ aside {
     margin-left: 70px;
     color: #EABE3F;
 }
+#fondoaguasestancadas1{
+    background: url(../images/fondoaguasestancadas.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondoaguasestancadas2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#seccionaguas{
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 75%;
+    float: right;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    margin-right: 25px;
+    height: auto;
+    margin-bottom: 25px;
+}
+#footeraguas{
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: auto;
+    border-radius: 0% 0% 20px 20px;
+    box-shadow: 20px 20px 40px;
+    clear: both;
+}
+#maparunaterra{
+    width: 1050px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    transition: all 300ms;
+    box-shadow: 20px 20px 40px;
+    border: #EABE3F solid 1.5px;
+}
+#maparunaterra:hover{
+    transform: scale(1.01); 
+}
+hr{
+    border: #EABE3F solid 1px;
+}
+#compramapa{
+    text-align: center;
+    color: #EABE3F;
+    margin: 0em 5em;
+    text-shadow: 5px 3px 8px black;
+}
+#laminas{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    width: 90%;
+    margin: 5%;
+    grid-gap: 30px;
+    
+}
+#laminas img{
+    width: 100%;
+    transition: all 300ms;
+    position: relative;
+    border: #EABE3F solid 1.5px;
+    border-radius: 10px;
+}
+#laminas img:hover{
+    transform: scale(1.05);
+}
+#laminas1{
+    margin-left: 55px;
+    color: #EABE3F;
+}
+#logos{
+    width: 10%;
+    margin-left: 500px;
+    transition: all 300ms;
+}
+#logos:hover{
+    transform: scale(1.05);
+}
+#fondobandle1{
+    background: url(../images/fondobandle.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondobandle2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondodemacia1{
+    background: url(../images/fondodemacia.jpeg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondodemacia2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
