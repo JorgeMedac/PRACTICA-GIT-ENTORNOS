@@ -395,3 +395,45 @@ hr{
     background-size: cover;
     background-attachment: fixed;
 }
+#fondoelvacio1{
+    background: url(../images/fondovacio.jfif)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondoelvacio2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondofreljord1{
+    background: url(../images/fondofreljord.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondofreljord2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondoislasombra1{
+    background: url(../images/fondoislasombra.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondoislasombra2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
