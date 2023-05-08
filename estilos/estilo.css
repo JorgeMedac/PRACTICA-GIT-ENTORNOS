@@ -437,3 +437,59 @@ hr{
     background-size: cover;
     background-attachment: fixed;
 }
+#fondoixtal1{
+    background: url(../images/fondoixtal.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondoixtal2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondojonia1{
+    background: url(../images/fondojonia.JPG)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondojonia2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondonoxus1{
+    background: url(../images/fondonoxus.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondonoxus2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondopiltover1{
+    background: url(../images/fondopiltover.jpg)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondopiltover2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
