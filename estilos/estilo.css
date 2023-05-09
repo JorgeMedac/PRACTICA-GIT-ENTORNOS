@@ -578,3 +578,21 @@ hr{
 #diventradas img:hover{
     transform: scale(1.05);
 }
+#fondoofertas1{
+    background: url(../images/tienda.png)no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#fondoofertas2{
+    background: rgba(0, 0, 0, 0.6);
+    width: 80%;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 20px 20px 40px;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#entradascampeones{
+    margin-left: 70px;
+    color: #EABE3F;
+}
